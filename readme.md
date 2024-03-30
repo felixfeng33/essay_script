@@ -1,0 +1,1 @@
+paste the code on the browser debug console
